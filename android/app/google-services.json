@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923449107784",
+    "firebase_url": "https://qr-new-plug.firebaseio.com",
+    "project_id": "qr-new-plug",
+    "storage_bucket": "qr-new-plug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923449107784:android:1988c274e9cb7a9b",
+        "android_client_info": {
+          "package_name": "com.example.qrnewplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923449107784-3lk75h1b3ecsv8639nqmbbd0pi6dt250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMw1DpithpHytCD4Wv9dcIApoeyJWOSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923449107784-3lk75h1b3ecsv8639nqmbbd0pi6dt250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
